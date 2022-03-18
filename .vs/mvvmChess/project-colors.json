@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a5a6123-84e0-41e5-9396-aafead861085": {
+      "ProjectGuid": "0a5a6123-84e0-41e5-9396-aafead861085",
+      "DisplayName": "Schach",
+      "ColorIndex": 0
+    },
+    "7fe737c5-fc82-48ea-8740-7587da067625": {
+      "ProjectGuid": "7fe737c5-fc82-48ea-8740-7587da067625",
+      "DisplayName": "Calculator",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
